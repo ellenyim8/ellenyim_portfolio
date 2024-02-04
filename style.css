@@ -3,13 +3,6 @@
     background-color: rgb(71, 41, 76);
     transition: background-color 200ms linear;
 }
-.navbar-fixed-top.scrolled {
-    background-color: #fff !important;
-    transition: background-color 200ms linear;
-}
-.nav.navbar-nav.navbar-right li a {
-    color: purple;
-}
 
 /*hero background image*/ 
 .bgimage {
